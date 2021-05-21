@@ -1,3 +1,5 @@
+## Modified to include financial domain - JL
+
 # PClean
 
 [![Build Status](https://travis-ci.com/probcomp/PClean.svg?branch=master)](https://travis-ci.com/probcomp/PClean)
