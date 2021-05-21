@@ -1,4 +1,4 @@
-## Modified to include financial domain - JL
+## Porting to Python - JL
 
 # PClean
 
